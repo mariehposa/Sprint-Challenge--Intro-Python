@@ -29,3 +29,7 @@ class FlightVehicle(Vehicle):
 # class Starship
 class Starship(FlightVehicle):
     pass
+
+# class GroundVehicle
+class GroundVehicle(Vehicle):
+    pass
