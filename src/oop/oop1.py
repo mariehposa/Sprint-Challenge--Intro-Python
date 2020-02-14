@@ -37,3 +37,7 @@ class GroundVehicle(Vehicle):
 # class Airplane
 class Airplane(FlightVehicle):
     pass
+
+# class Car
+class Car(GroundVehicle):
+    pass
