@@ -21,3 +21,7 @@
 # class vehicle
 class Vehicle:
     pass
+
+# class FlightVehicle
+class FlightVehicle(Vehicle):
+    pass
